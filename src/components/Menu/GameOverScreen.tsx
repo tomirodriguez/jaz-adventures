@@ -73,7 +73,7 @@ export function GameOverScreen({
         flexDirection: 'column',
         alignItems: 'center',
         justifyContent: 'center',
-        background: 'linear-gradient(180deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%)',
+        background: 'linear-gradient(180deg, #0a1a0f 0%, #0f2918 50%, #132e1a 100%)',
         fontFamily: 'system-ui, -apple-system, sans-serif',
         padding: '24px',
         opacity: isVisible ? 1 : 0,
